@@ -1,1 +1,117 @@
+em {
+  background-color:lightblue;
+}
 
+#boxmodeldemo {
+  margin: 20%;
+  border: 2px red dashed;
+  padding: 10%;
+  width: 60%;
+}
+
+#width1 {
+  width: 75%;
+}
+
+#width2 {
+  width: 100px;
+}
+
+#width3 {
+  width: 3em;
+}
+
+#container1 {
+  width:50%;
+}
+#inside1{
+  width:50%;
+}
+
+#container2{
+  width:300px;
+}
+#inside2 {
+  width:75%;
+}
+
+#container3 {
+  width:200px;
+}
+#inside3 {
+  width:300px;
+}
+
+#border1{
+border: 1px solid black
+}
+
+#border2 {
+  border: 2px solid red
+}
+
+#border3 {
+  border: 3px dashed grey
+}
+
+#border4 {
+  border: 1px solid black;
+  width: 50%;
+  background-color: maroon;
+}
+
+#margin1 {
+  border: 1px solid black;
+  margin: 10%;
+}
+
+#margin2 {
+  border: 1px solid black;
+  margin: 5px 10%
+}
+
+#margin3 {
+margin: 2px 25%
+}
+
+#margin4{
+  margin: 0 15%;
+  background-color: maroon;
+}
+
+#padding1 {
+  border: 1px solid black;
+  padding: 10%
+}
+
+#padding2 {
+  border: 1px solid black;
+  padding: 5px 1em
+}
+
+#padding3 {
+  padding: 3em 2em
+}
+
+#padding4 {
+  background-color: maroon;
+  padding: 0 15%
+}
+
+#singleSide1 {
+  border-bottom: 1px solid grey
+}
+
+#singleSide2 {
+  width: 50%;
+  margin-left: 10%;
+  border-right: 2px solid red
+}
+
+#singleSide3{
+  background-color: maroon;
+  margin-right: 5%;
+  padding-top: 3em;
+  padding-left: 3em;
+  padding-bottom: 3em;
+}
